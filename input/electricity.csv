@@ -1,0 +1,5 @@
+location,Energy type,System boundary,Source,Energy consumption (GJ GJ -1),CO2 (kg GJ-1),CO2 biogenic (kg GJ-1),CH4 (kg GJ-1),N2O (kg GJ-1),CO (kg GJ-1),NH3 (kg GJ-1),NO2 (kg GJ-1),SO2 (kg GJ-1),NMVOC (kg GJ-1),PM (kg kg,SF6 (kg GJ-1),NO3 to water (kg GJ-1),PO4 (kg GJ-1),P (kg GJ-1)
+Manitoba,electricity,cradle to end user,GHGenious,0.2273,16.75,0,0.2635,0.00308568,0.003072,0,0.03438,0.04164,0.000339,0.002128,0.5609,0,0,0
+US,electricity,cradle to end user,GHGenious,2.082,185.3,0,0.3237,0.00431,0.0423,0,0.18015,0.338,0.0036,0.0334,0.561,0,0,0
+Canada,electricity,cradle to end user,GHGenious,1.017813053,57.44,0,0.2134,0.0037667,0.0368,0,0.1386,0.2117,0.00222,0.01197,0.5609,0,0,0
+Ontario,electricity,cradle to end user,GHGenious,1.856,36.16,0,0.111,0.004601,0.05568,0,0.06463,0.07165,0.002751,0.008742,0.5609,0,0,0

@@ -1,0 +1,8 @@
+,Parameter for Phosphorus loss computation,Unit,Value,Note
+P content top soil,P.content.topsoil,(kg P kg -1),0.00095,According to Nemecek et al. 2014
+Fr,P.enrichment.factor,,1.86,According to Nemecek et al. 2014
+Frw,eroded.soil.reaching.river,,0.2,According to Nemecek et al. 2014
+P Practice factor,practice.factor,,1,According to Faist Emmeneger et al. 2014
+Slope,slope,,0.005,According to Nemecek et al. 2014
+Erodibility,erodibility,,0.046,According to Faist Emmeneger et al. 2014
+Length of the slope,slope.length,m,200,assuming the length of the field

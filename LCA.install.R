@@ -1,0 +1,25 @@
+ if ("stringr" %in% rownames(installed.packages())==FALSE) {
+ 	install.packages("string")}
+ 
+ source("code/mecr.R")
+ source("code/rass.R")
+ source("code/LCA.ini.R")
+ source("code/fc.R")
+ source("code/tf.R")
+ source("code/variableremoval.R")
+ source("code/farm.transport.R")
+ source("code/fp.R")
+ source("code/mlc.R")
+ source("code/materials.production.R")
+ source("code/ep.R")
+ source("code/tfp.R")
+ source("code/ppt.R")
+ source("code/fpt.R")
+ source("code/yt.R")
+ source("code/soil.P.loss.R")
+ source("code/N.loss.R")
+ source("code/seed.production.transport.R")
+ source("code/LCIA.GWP.R")
+ source("code/LCIA.AP.R")
+ source("code/LCIA.EP.R")
+ 
