@@ -1,0 +1,55 @@
+full description,Variable,Unit,Value,Notes
+1 Fuel transport distance,f.t.d,km,11.7,from end user to farm centre 
+2 fuel transport  mean,f.t.m,,truck,from end user to farm centre 
+3 machinery transport distance,m.t.d,km,3.3,from farm centre to the field
+4 number of trips per day,n.t.d,,1,from farm centre to the field
+5 number of trips per day fertiliser ,n.t.f,,4,from farm centre to the field
+6 distance to fertiliser  depot,d.f.d,km,11.7,from depot to field
+7 number of trips grain harvest,n.t.g.h,,16,from farm centre to the field
+8 number of trips bale collecting,n.t.b.c,,8,
+9 distance of tranport of urea by truck,urea.transport.1.distance,km,100,from raw material extraction to local storehouse
+10 distance of transport of urea by rail,urea.transport.2.distance,km,557,from raw material extraction to local storehouse
+11 distance of tranport of ammonia by truck,ammonia.transport.1.distance,km,60,from raw material extraction to local storehouse
+12 distance of transport of ammonia by rail,ammonia.transport.2.distance,km,1035,from farm centre to local storehouse
+13 distance covered to collect grains from the harvester within the field,truck.harvest.transport.distance,Km ,0.5,accounting for petrol consumption considering that the 400 bushels truck just covers a 1000 m distance to collect the grains from the harvester
+14 total full load covered to collect grains from the harvester within the field,truck.harvest.transport.amount,kg,10900,accounting for petrol consumption considering that the 400 bushels truck just covers a 1000 m distance to collect the grains from the harvester
+15 type of transport mean covered to collect grains from the harvester within the field,truck.harvest.transport.mean,,petrol truck,accounting for petrol consumption considering that the 400 bushels truck just covers a 1000 m distance to collect the grains from the harvester
+16 distance covered from the field to the farm for the truck used during harvest,truck.harvest.field.farm.centre.distance,km,3.3,Accounting for petrol consumption considering that the 400 bushels truck just covers a 3.3 m distance from the field to the farm centre during harvest
+17 maximum number of trip per day from the field to the farm for the truck used during harvest,truck.harvest.field.farm.centre.maximum.trips.per.day,,10,Accounting for petrol consumption considering that the 400 bushels truck just covers a 3.3 m distance from the field to the farm centre during harvest n times per day
+18 self propelled disk broadcaster  maximum number of trips per day,self.propelled.disk.broadcaster.max.number.per.day,,10,"Accounting for number of trips per day for the self propelled disk broadcaster from fertiliser depot to the field, this variable is introduced in the farm transport function because the self propelled disk broadcaster is coming from the depot to the field"
+19 assumption related to the type of mean of transport for self propelled disk broadcaster,self.propelled.disk.broadcaster.mean.transport,,truck,"Assuming that the self propelled disk broadcaster has the same consumption of a small truck, this variable is introduced in the farm transport function because the self propelled disk broadcaster is coming from the depot to the field"
+20 self propelled disk broadcastercapacity,self.propelled.disk.broadcaster.capacity,kg,5000,"Assuming that the self propelled disk broadcaster has the same consumption of a small truck, this variable is introduced in the farm transport function because the self propelled disk broadcaster is coming from the depot to the field"
+21 fuel.production.location,fuel.production.location,,Manitoba,Location for fuel production in fp and tfp function
+22 pesticide transport distance from local storehouse to the farm centre,pesticide.transport.distance,km,11.7,from local storehouse to the farm centre
+23 pesticide production location,pesticide.production.location,,Canada,"European average values present in the Ecoinvent are present, the location should be present in the material list for different pesticides"
+24 pesticide transport mean,pesticide.transport.mean,,petrol truck,from the factory gate to the local storehouse
+25 location of the production of fuel needed for transport,transport.fuel.production.location,,Canada,"This variable it is utilised each time the ftp function is called, the ftp function combines the transport of material function (ft) with the fp which accounts for fuel production"
+26 fertiliser transport mean from cradle to local storehouse (rail) for urea,urea.transport.mean.2,,rail,It was assumed part of the transport of urea from the cradle to local storehouse has been carried out by rail
+27 fertiliser transport mean from cradle to local.storehouse for urea,urea.transport.mean.1,,truck,It was assumed part of the transport of urea from the cradle to local storehouse has been carried out by truck
+28 urea production location,urea.production.location,,Canada,this location is set according to the inventory built
+29 material inventory location for fertiliser,fertiliser.inventory.location,,Canada,according to the data available
+30 fertiliser local transport distance from local storehouse to farm centre,fertiliser.local.transport.distance,km,11.7,from local storehouse to the farm centre  to the farm centre of fertilisers other than urea and ammonia
+31 mean for local transport of fertiliser other than urea and ammonia,fertiliser.local.transport.mean,,truck,Mean for local transport from local storehouse to the farm centre of fertilisers other than urea and ammonia
+32 2 mean of transport for ammonia,ammonia.transport.mean.2,,rail,It was assumed part of the transport of ammonia from the cradle to local storehouse has been carried out by rail
+33 ammonia production location,ammonia.production.location,,Canada,this location is set according to the inventory built
+34 1st mean of transport for ammonia,ammonia.transport.mean.1,,truck,It was assumed part of the transport of ammonia from the cradle to local storehouse has been carried out by truck
+35 tractor production location,tractor.production.location,,Canada,It was assumed the tractor were manufactured in Canada
+"36 1 transport distance for tractors, self-propelled machinery from the factory to the farm and related impact due to the production and transport of fuel",tractor.transport.distance.1,km,1800,"1 transport distance for tractors, self-propelled machinery from the factory to the farm and related impact due to the production and transport of fuel assuming the machines are manufactured in Ontario"
+"37 1 transport mean for tractors, self-propelled machinery from the factory to the farm and related impact due to the production and transport of fuel",tractor.transport.mean.1,,rail,"1 transport mean for tractors, self-propelled machinery from the factory to the farm and related impact due to the production and transport of fuel assuming the machines are manufactured in Ontario"
+"38 2 transport distance for tractors, self-propelled machinery from the factory to the farm and related impact due to the production and transport of fuel",tractor.transport.distance.2,,300,"2 transport distance for tractors, self-propelled machinery from the factory to the farm and related impact due to the production and transport of fuel assuming the machines are manufactured in Ontario"
+"39 2 transport mean for tractors, self-propelled machinery from the factory to the farm and related impact due to the production and transport of fuel",tractor.transport.mean.2,,truck,"2 transport mean for tractors, self-propelled machinery from the factory to the farm and related impact due to the production and transport of fuel assuming the machines are manufactured in Ontario"
+40 maintenance and repairs location,maintenance.repairs.location,,Manitoba,this variable is used in the mlc function
+41 electricity production location for maintenance and repairs,electricity.production.maintenance.repairs.location,,Manitoba,this variable is used in the mlc function
+42 operating machinery production location,operating.machinery.production.location,,Canada,used to account in the mlc for operating machinery manufacture and raw materials extraction. Canada is used as location to use GHGenious data
+43 distance between steel factory and the operating machinery manufacture factory,steel.factory.to.operating.machinery.manufacture.factory.distance,km,69,It was assumed the machinery manufacture was carried out in Toronto while steel was produced in Hamilton
+44 mean used for transport of raw materials from raw materials factory operating machinery factory,steel.factory.to.operating.machinery.manufacture.factory.mean,,rail,It was assumed the machinery manufacture was carried out in Toronto while steel was produced in Hamilton
+45 electricity production location for operating machinery manufacture,electricity.production.operating.machinery.manufacture.location,,Ontario,It was assumed that machinery manufacture was carried out in Toronto
+46 total transport distance 1 for machinery manufacture from raw material extraction to delivery to farm,operating.machinery.manufacture.transport.distance.1,,1800,
+47 total transport mean 1 for machinery manufacture from raw material extraction to delivery to farm,operating.machinery.manufacture.transport.mean.1,,rail,
+46 total transport distance 1 for machinery manufacture from raw material extraction to delivery to farm,operating.machinery.manufacture.transport.distance.2,,300,
+47 total transport mean 1 for machinery manufacture from raw material extraction to delivery to farm,operating.machinery.manufacture.transport.mean.2,,truck,
+48 distance between steel factory and the operating machinery manufacture factory,rubber.factory.to.operating.machinery.manufacture.factory.distance,km,290,It was assumed the machinery manufacture was carried out in Toronto while rubber was produced in Sarnia
+49 mean used for transport of raw materials from raw materials factory operating machinery factory,rubber.factory.to.operating.machinery.manufacture.factory.mean,,rail,It was assumed the machinery manufacture was carried out in Toronto while steel was produced in Sarnia
+50 seed transport distance from the local storehouse to the farm centre,seed.transport.distance,km,11.7,It was assumed the same distance and mean of transport has been used for all type of seeds
+51 mean for transport for seed transport distance from the local storehouse to the farm centre,seed.transport.transport.mean,,truck,It was assumed the same distance and mean of transport has been used for all type of seeds
+52 seed production location,seed.production.location,,Canada,It was assumed for Canada production considering 500 km transport by rail and other 500 km by truck

@@ -1,0 +1,54 @@
+Year,Plot,Crop,Crop.management.operation,operating machinery,Total life cycle machinery (h),Total life cycle operating machinery,Total life cycle operating machinery,Total life cycle operating machinery,Source 
+2006,2,Maize,Disk harrowing,Disk harrow,16000,2000,0,0,ASABE 2011
+2006,2,Maize,Herbicide treatment,Sprayer self propelled,8000,0,0,0,"ASABE 2011, expert's knowledge"
+2006,2,Maize,harrowing,heavy harrow with straight spring tine,16000,2000,0,0,ASABE 2011
+2006,2,Maize,harrowing,heavy harrow with straight spring tine,16000,2000,0,0,ASABE 2011
+2006,2,Maize,Seeding+ fertiliser application,seeding drill + aircart,16000,1500,0,0,ASABE 2011
+2006,2,Maize,fertiliser application,self propelled disk broadcaster,12000,0,0,0,ASABE 2011
+2006,2,Maize,harrowing,straight spring tine harrow,16000,2000,0,0,ASABE 2011
+2006,2,Maize,Herbicide treatment,Sprayer self propelled,8000,0,0,0,"ASABE 2011, expert's knowledge"
+2006,2,Maize,harvesting,combined harvester+265 Petrol truck 10.9 t full load,3000,0,0,0,ASABE 2011
+2006,2,Maize,harvesting,combined harvester+265 Petrol truck 10.9 t full load,6000,0,0,0,ASABE 2011
+2006,2,Maize,Mulching,flail mower,16000,2000,0,0,"ASABE 2011, expert's knowledge"
+2006,3,Alfalfa,seeding,mechanical seed drill,16000,1500,0,0,ASABE 2011
+2006,3,Alfalfa,mowing,rotary  mowing,16000,2000,0,0,ASABE 2011
+2006,3,Alfalfa,mowing,rotary  mowing,16000,2000,0,0,ASABE 2011
+2006,3,Alfalfa,weeding,Sprayer self propelled,8000,0,0,0,"ASABE 2011, expert's knowledge"
+2006,3,Alfalfa,mowing,rotary  mowing,16000,2000,0,0,ASABE 2011
+2007,3,Alfalfa,cutting,Swather,3000,3000,0,0,ASABE 2011
+2007,3,Alfalfa,windrowing,tractor+windrower,16000,2500,0,0,ASABE 2011
+2007,3,Alfalfa,baling,baler,16000,1500,0,0,ASABE 2011
+2007,3,Alfalfa,bale collecting,tractor + 10t trailer ,16000,16000,2000,0,ASABE 2011
+2007,3,Alfalfa,cutting,Swather,3000,3000,0,0,ASABE 2011
+2007,3,Alfalfa,windrowing,tractor+windrower,16000,2500,0,0,ASABE 2011
+2007,3,Alfalfa,baling,baler,16000,1500,0,0,ASABE 2011
+2007,3,Alfalfa,bale collecting,tractor + 10t trailer ,16000,16000,2000,0,ASABE 2011
+2007,2,Wheat,cultivating,heavy harrow with straight spring tine,16000,2000,0,0,ASABE 2011
+2007,2,Wheat,harrowing,straight spring tine harrow,16000,2000,0,0,ASABE 2011
+2007,2,wheat,seeding and fertiliser application,seeding drill + aircart,16000,1500,3000,0,ASABE 2011
+2007,2,Wheat,weeding,Sprayer self propelled,8000,0,0,0,"ASABE 2011, expert's knowledge"
+2007,2,Wheat,harvesting,combined harvester+265 Petrol truck 10.9 t full load,3000,0,0,0,ASABE 2011
+2007,2,Wheat,harvesting,combined harvester+265 Petrol truck 10.9 t full load,6000,0,0,0,ASABE 2011
+2007,2,Wheat,baling,baler,16000,1500,0,0,ASABE 2011
+2007,2,Wheat,bale collecting,tractor +10t trailer ,16000,16000,2000,0,ASABE 2011
+2007,2,wheat,cultivating,heavy harrow with straight spring tine,16000,2000,0,0,ASABE 2011
+2007,2,wheat,cultivating,heavy harrow with straight spring tine,16000,2000,0,0,ASABE 2011
+2008,2,Rapeseed,Seeding,seeding drill + aircart,16000,1500,3000,0,ASABE 2011
+2008,2,Rapeseed,fertiliser application,self propelled disk broadcaster,12000,0,0,0,ASABE 2011
+2008,2,Rapeseed,weeding,Sprayer self propelled,8000,0,0,0,"ASABE 2011, expert's knowledge"
+2008,2,Rapeseed,Cutting,Windrower ,3000,0,0,0,ASABE 2011
+2008,2,Rapeseed,harvesting,combined harvester+265 Petrol truck 10.9 t full load,3000,0,0,0,ASABE 2011
+2008,2,Rapeseed,harvesting,combined harvester+265 Petrol truck 10.9 t full load,6000,0,0,0,ASABE 2011
+2008,2,Rapeseed,harrowing,heavy harrow with straight spring tine,16000,2000,0,0,ASABE 2011
+2008,2,Rapeseed,harrowing,straight spring tine harrow,16000,2000,0,0,ASABE 2011
+2008,3,Alfalfa,cutting,Swather,3000,3000,0,0,ASABE 2011
+2008,3,Alfalfa,windrowing,tractor+windrower,16000,2500,0,0,ASABE 2011
+2008,3,Alfalfa,baling,baler,16000,1500,0,0,ASABE 2011
+2008,3,Alfalfa,bale collecting,tractor +  10t trailer ,16000,16000,2000,0,ASABE 2011
+2008,3,Alfalfa,cutting,Swather,3000,3000,0,0,ASABE 2011
+2008,3,Alfalfa,windrowing,tractor+windrower,16000,2500,0,0,ASABE 2011
+2008,3,Alfalfa,baling,baler,16000,1500,0,0,ASABE 2011
+2008,3,Alfalfa,bale collecting,tractor + 10t trailer ,16000,16000,2000,0,ASABE 2011
+2008,3,Alfalfa,Disk harrowing,Disk harrow,16000,2000,0,0,ASABE 2011
+2008,3,Alfalfa,harrowing,heavy harrow with straight spring tine,16000,2000,0,0,ASABE 2011
+2008,3,alfalfa,harrowing,straight spring tine harrow,16000,2000,0,0,ASABE 2011

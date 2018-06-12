@@ -1,0 +1,6 @@
+Mean,Notes,Diesel consumption (kg km-1  kg-1),Gasoline consumption (kg km-1  kg-1),CO2 (kg km-1 kg-1),CO2 biogenic (kg km-1 kg-1),CH4 (kg km-1 kg-1),N2O (kg km-1 kg-1),CO (kg km-1 kg-1),NH3 (kg km-1 kg-1),NO2 (kg km-1 kg-1),SO2 (kg km-1 kg-1),NMVOC (kg km-1 kg-1),PM (kg km-1 kg-1),SF6 (kg km-1 kg-1),NO3 to water (kg kg-1),PO4 (kg kg-1),P (kg kg-1)
+truck,"20t, wheel to wheel",0.0000451,0,0.000147,0,1.93E-08,6.27E-09,3.79E-08,0,6.34E-08,1.76E-08,1.94E-08,0.000000008,0,0,0,0
+petrol truck,"20t, wheel to wheel ",0,0.00014104,0.000526,0,6.15E-08,2.01E-08,0.000000253,0,0.000000181,5.16E-08,0.000000106,1.93E-08,0,0,0,0
+rail,wheel to wheel ,0.00000481,0,0.0000166,0,3.17E-09,6.28E-09,4.03E-08,0,0.000000256,1.35E-08,6.19E-09,8.63E-09,0,0,0,0
+marine bulk freight,"200Kt C5 does not indicate Diesel but heavy fuel oil consumption, wheel to wheel",0.00000132,0,0.00000514,0,1.30E-09,1.45E-10,1.17E-08,0,0.000000109,1.14E-09,1.82E-09,2.47E-09,0,0,0,0
+marine cargo freight,"15000t, wheel to wheel",0.00000461,0,0.0000182,0,4.62E-09,5.14E-10,4.15E-08,0,0.000000385,0.000000004,1.34E-08,8.76E-09,0,0,0,0

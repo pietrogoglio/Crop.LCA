@@ -1,0 +1,6 @@
+Description,Parameter for nitrate loss computation,Unit,Value,Note
+clay.content,clay.content,%,60,
+soil.depth,soil.depth,m,1.2,
+bulk.density,bulk.density,Mg m-3,1.2,
+soil.profile,soil.profile,m,0.2,
+carbon.content,carbon.content,%,3.2,
