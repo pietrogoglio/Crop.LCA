@@ -17,7 +17,7 @@ For any information, questions or details, please contact:
 Pietro Goglio PhD
 
 Mails:
-pietro.goglio@gmail.com, pietro.goglio@cranfield.ac.uk
+pietro.goglio@gmail.com, pietro.goglio@wur.nl
 
 
 Devon Worth
